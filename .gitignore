@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Optional: lock files (uncomment if you don't want them tracked)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: Next.js / Vite / other frameworks
+.next/
+.vite/
+.cache/
+
+# Optional: Jest
+jest-cache/
+
+# Optional: ESLint cache
+.eslintcache

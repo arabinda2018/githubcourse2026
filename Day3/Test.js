@@ -13,5 +13,7 @@ console.log(typeof(age));
  message =100;
 
 
+ 
+
  let result="5"+3;
  console.log(result);

@@ -1,1 +1,0 @@
-console.log("Precondtion before learing TS")
